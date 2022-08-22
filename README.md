@@ -1,3 +1,3 @@
 # Smart-Test
 
-![](/client/dashboard.jpg)
+![](/dashboard.PNG)
